@@ -1,0 +1,6 @@
+module/build/
+module/signing.env
+*.p12
+*.jks
+*.keystore
+*.idsig

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 手机版 + HD 都挂上，HD 里入口和下载逻辑走同一套名字查找 -->
+    <string-array name="xposed_scope">
+        <item>tv.danmaku.bili</item>
+        <item>tv.danmaku.bilibilihd</item>
+    </string-array>
+</resources>
