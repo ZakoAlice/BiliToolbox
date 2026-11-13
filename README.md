@@ -9,6 +9,8 @@
 - 设置入口：**我的 → 更多服务 → 小睦工具箱**
 - 逆向样本：哔哩哔哩 **9.17.0（9170300）**（另保留 9.19 的兼容路径）
 - 无联网上传、无数据收集；不装 LSPosed / 无 root 用不了
+- 仓库：<https://github.com/ZakoAlice/BiliToolbox>
+- 直接下载：[`dist/BiliToolbox-v1.8.apk`](dist/BiliToolbox-v1.8.apk)
 
 ---
 
